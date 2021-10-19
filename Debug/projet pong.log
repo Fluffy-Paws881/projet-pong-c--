@@ -1,0 +1,11 @@
+﻿  balle.cpp
+D:\BACHELOR LUDUS\ALGO\git projet\projet-pong-c--\balle.cpp(52,17): warning C4244: '+=' : conversion de 'double' en 'int', perte possible de données
+D:\BACHELOR LUDUS\ALGO\git projet\projet-pong-c--\balle.cpp(60,17): warning C4244: '+=' : conversion de 'double' en 'int', perte possible de données
+  cVue.cpp
+  define.cpp
+  main.cpp
+  player.cpp
+  score.cpp
+D:\BACHELOR LUDUS\ALGO\git projet\projet-pong-c--\score.cpp(67,11): warning C4101: 'posiScr' : variable locale non référencée
+  Génération de code en cours...
+  projet pong.vcxproj -> D:\BACHELOR LUDUS\ALGO\git projet\projet-pong-c--\Debug\projet pong.exe
